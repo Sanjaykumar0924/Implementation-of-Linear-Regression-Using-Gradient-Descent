@@ -55,7 +55,8 @@ else:
 ```
 
 ## Output:
-![Uploading WhatsApp Image 2024-08-30 at 09.18.39_998c0793.jpg…]()
+![imageex ml](https://github.com/user-attachments/assets/41b339a2-e2d0-4b7c-bb67-528c6ca19a67)
+
 
 
 
